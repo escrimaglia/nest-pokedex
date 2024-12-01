@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) My Nest project Pokemon.
+[Nest](https://github.com/nestjs/nest) My Nest project Pokemon - Ed Scrimaglia.
 
 ## Project setup
 
