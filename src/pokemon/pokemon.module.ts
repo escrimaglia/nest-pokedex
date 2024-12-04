@@ -14,7 +14,8 @@ import { MongooseModule } from '@nestjs/mongoose';
       schema: PokemonSchema,
     }
     ])
-  ]
+  ],
+  exports: [PokemonService]
 })
 
 export class PokemonModule {}
